@@ -12,8 +12,11 @@
     let multiplicação = num1 * num2;
     let divisão = num1 / num2;
     console.log("o valor da soma é " + soma + " - daleeeeeeeeeeee inter");
+
     console.log("o valor da soma é " + subtração + " - daleeeeeeeeeeee inter");
+
     console.log("o valor da soma é " + multiplicação + " - daleeeeeeeeeeee inter");
+    
     console.log("o valor da soma é " + divisão + " - daleeeeeeeeeeee inter");
 
     
